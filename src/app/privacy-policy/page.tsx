@@ -4,7 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Privacy Policy | Healthy Vibes Hub',
   description: 'Read Healthy Vibes Hub\'s Privacy Policy to understand how we collect, use, and protect your personal information. GDPR and CCPA compliant.',
-  alternates: { canonical: 'https://healthyvibeshub.com/privacy-policy' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/privacy-policy' },
   robots: { index: true, follow: true },
 };
 

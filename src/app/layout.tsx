@@ -5,7 +5,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import BackToTop from '@/components/BackToTop';
 
-const SITE_URL = 'https://healthyvibeshub.com';
+const SITE_URL = 'https://www.healthyvibeshub.com';
 const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_ID || 'G-SMWND5SBTT';
 
 export const metadata: Metadata = {
@@ -124,7 +124,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#0a6847" />
-        <link rel="canonical" href={SITE_URL} />
         <link rel="alternate" type="application/rss+xml" title="Healthy Vibes Hub RSS" href={`${SITE_URL}/feed.xml`} />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />

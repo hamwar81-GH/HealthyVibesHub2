@@ -5,8 +5,8 @@ import AdUnit from '@/components/AdUnit';
 export const metadata: Metadata = {
   title: 'Fitness & Workout Guide 2026 — Best Exercise Tips | Healthy Vibes Hub',
   description: 'Expert fitness guides, workout plans, and exercise science for all levels. 190+ science-backed fitness articles at Healthy Vibes Hub — your best fitness resource for 2026.',
-  alternates: { canonical: 'https://healthyvibeshub.com/fitness' },
-  openGraph: { title: 'Fitness & Workout Guide 2026 | Healthy Vibes Hub', description: '190+ expert workout plans and fitness tips at Healthy Vibes Hub.', url: 'https://healthyvibeshub.com/fitness' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/fitness' },
+  openGraph: { title: 'Fitness & Workout Guide 2026 | Healthy Vibes Hub', description: '190+ expert workout plans and fitness tips at Healthy Vibes Hub.', url: 'https://www.healthyvibeshub.com/fitness' },
 };
 
 const articles = [

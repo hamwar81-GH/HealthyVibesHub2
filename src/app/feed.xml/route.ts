@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 
-const BASE = 'https://healthyvibeshub.com';
+const BASE = 'https://www.healthyvibeshub.com';
 
 const feed = [
   { title: '15 Superfoods That Actually Boost Your Immune System in 2026', link: `${BASE}/nutrition`, date: 'Mon, 28 Apr 2026 09:00:00 GMT', category: 'Nutrition', desc: 'Science-backed foods that strengthen immunity, reduce inflammation, and support longevity ranked by nutritional density.' },

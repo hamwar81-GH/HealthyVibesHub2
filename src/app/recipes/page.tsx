@@ -5,7 +5,7 @@ import AdUnit from '@/components/AdUnit';
 export const metadata: Metadata = {
   title: 'Healthy Recipes 2026 -- Easy Nutritious Meals | Healthy Vibes Hub',
   description: 'Browse 320+ easy, delicious, and nutritionist-approved healthy recipes for every meal and dietary need at Healthy Vibes Hub. Quick, low-calorie, high-protein meal ideas for 2026.',
-  alternates: { canonical: 'https://healthyvibeshub.com/recipes' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/recipes' },
 };
 
 const recipes = [

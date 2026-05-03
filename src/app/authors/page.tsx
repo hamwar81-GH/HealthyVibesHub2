@@ -4,7 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Our Expert Health Authors & Medical Reviewers | Healthy Vibes Hub',
   description: 'Meet the 48 certified health professionals, medical doctors, registered dietitians, and fitness experts who write and review all content at Healthy Vibes Hub.',
-  alternates: { canonical: 'https://healthyvibeshub.com/authors' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/authors' },
 };
 
 const authors = [

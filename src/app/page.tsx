@@ -5,16 +5,16 @@ import AdUnit from '@/components/AdUnit';
 export const metadata: Metadata = {
   title: 'Healthy Vibes Hub | Best Health & Wellness Guide 2026',
   description: 'Healthy Vibes Hub -- your trusted source for expert-reviewed nutrition, fitness, mental health, sleep science, and wellness tips. Live your healthiest life in 2026.',
-  alternates: { canonical: 'https://healthyvibeshub.com' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com' },
 };
 
 const heroSchema = {
   '@context': 'https://schema.org',
   '@type': 'WebPage',
   name: 'Healthy Vibes Hub -- Best Health & Wellness Guide 2026',
-  url: 'https://healthyvibeshub.com',
+  url: 'https://www.healthyvibeshub.com',
   description: 'Expert-reviewed health, nutrition, fitness, and wellness content.',
-  breadcrumb: { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Home', item: 'https://healthyvibeshub.com' }] },
+  breadcrumb: { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.healthyvibeshub.com' }] },
 };
 
 const featuredArticles = [

@@ -5,7 +5,7 @@ import AdUnit from '@/components/AdUnit';
 export const metadata: Metadata = {
   title: 'Health Blog 2026 — Latest Wellness Articles | Healthy Vibes Hub',
   description: 'Browse the latest expert-reviewed health, nutrition, fitness, and wellness articles on the Healthy Vibes Hub blog. New content published weekly by certified health professionals.',
-  alternates: { canonical: 'https://healthyvibeshub.com/blog' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/blog' },
 };
 
 const allPosts = [

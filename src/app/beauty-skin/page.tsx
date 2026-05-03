@@ -5,7 +5,7 @@ import AdUnit from '@/components/AdUnit';
 export const metadata: Metadata = {
   title: 'Beauty & Skin Health Guide 2026 — Best Skincare Tips | Healthy Vibes Hub',
   description: 'Dermatologist-reviewed skincare guides, anti-aging routines, and beauty-from-within tips. Top skincare advice and healthy beauty articles at Healthy Vibes Hub 2026.',
-  alternates: { canonical: 'https://healthyvibeshub.com/beauty-skin' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/beauty-skin' },
 };
 
 const articles = [

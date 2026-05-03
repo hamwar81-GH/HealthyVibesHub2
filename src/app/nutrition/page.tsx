@@ -5,8 +5,8 @@ import AdUnit from '@/components/AdUnit';
 export const metadata: Metadata = {
   title: 'Nutrition Tips & Healthy Eating Guide 2026 | Healthy Vibes Hub',
   description: 'Discover 280+ expert-reviewed nutrition articles on healthy eating, superfoods, meal planning, vitamins, and diet science at Healthy Vibes Hub. Your best nutrition resource for 2026.',
-  alternates: { canonical: 'https://healthyvibeshub.com/nutrition' },
-  openGraph: { title: 'Nutrition Tips & Healthy Eating Guide 2026', description: 'Expert-reviewed nutrition and healthy eating content at Healthy Vibes Hub.', url: 'https://healthyvibeshub.com/nutrition' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/nutrition' },
+  openGraph: { title: 'Nutrition Tips & Healthy Eating Guide 2026', description: 'Expert-reviewed nutrition and healthy eating content at Healthy Vibes Hub.', url: 'https://www.healthyvibeshub.com/nutrition' },
 };
 
 const articles = [

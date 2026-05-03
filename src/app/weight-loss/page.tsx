@@ -5,7 +5,7 @@ import AdUnit from '@/components/AdUnit';
 export const metadata: Metadata = {
   title: 'Weight Loss Guide 2026 — Best Diet & Fat Loss Tips | Healthy Vibes Hub',
   description: 'Science-backed weight loss strategies, diet plans, and fat-burning tips from registered dietitians and fitness experts. 145+ proven weight loss articles at Healthy Vibes Hub.',
-  alternates: { canonical: 'https://healthyvibeshub.com/weight-loss' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/weight-loss' },
 };
 
 const articles = [

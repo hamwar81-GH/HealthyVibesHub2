@@ -4,7 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'About Us — Our Story, Mission & Expert Team | Healthy Vibes Hub',
   description: 'Learn about Healthy Vibes Hub — our mission, editorial standards, expert team of 48 certified health professionals, and our commitment to accurate, trustworthy health information.',
-  alternates: { canonical: 'https://healthyvibeshub.com/about' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/about' },
 };
 
 const team = [

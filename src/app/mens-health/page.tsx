@@ -5,7 +5,7 @@ import AdUnit from '@/components/AdUnit';
 export const metadata: Metadata = {
   title: "Men's Health Guide 2026 — Testosterone, Fitness & Wellness | Healthy Vibes Hub",
   description: "Expert men's health articles on testosterone, muscle building, heart health, prostate health, and male fitness. 175+ doctor-reviewed guides at Healthy Vibes Hub.",
-  alternates: { canonical: 'https://healthyvibeshub.com/mens-health' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/mens-health' },
 };
 
 const articles = [

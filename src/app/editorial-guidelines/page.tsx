@@ -4,7 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Editorial Guidelines & Standards | Healthy Vibes Hub',
   description: 'Learn how Healthy Vibes Hub creates, reviews, and updates health content. Our strict editorial process ensures every article is accurate, unbiased, and evidence-based.',
-  alternates: { canonical: 'https://healthyvibeshub.com/editorial-guidelines' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/editorial-guidelines' },
 };
 
 export default function EditorialGuidelinesPage() {

@@ -5,7 +5,7 @@ import AdUnit from '@/components/AdUnit';
 export const metadata: Metadata = {
   title: 'Sleep Health Guide 2026 — Better Sleep Tips & Science | Healthy Vibes Hub',
   description: 'Discover 95+ expert sleep health articles on insomnia, sleep hygiene, circadian rhythm, and sleep disorders at Healthy Vibes Hub. Sleep better starting tonight.',
-  alternates: { canonical: 'https://healthyvibeshub.com/sleep' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/sleep' },
 };
 
 const articles = [

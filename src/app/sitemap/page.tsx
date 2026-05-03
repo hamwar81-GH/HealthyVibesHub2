@@ -4,7 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'HTML Sitemap — All Pages | Healthy Vibes Hub',
   description: 'Browse all pages on Healthy Vibes Hub — health categories, wellness articles, recipes, expert guides, and more. Complete site map for easy navigation.',
-  alternates: { canonical: 'https://healthyvibeshub.com/sitemap' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/sitemap' },
 };
 
 const sections = [

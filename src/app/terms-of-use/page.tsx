@@ -4,7 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Terms of Use | Healthy Vibes Hub',
   description: 'Read the Terms of Use for Healthy Vibes Hub. These terms govern your use of our website and health content.',
-  alternates: { canonical: 'https://healthyvibeshub.com/terms-of-use' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/terms-of-use' },
 };
 
 const terms = [

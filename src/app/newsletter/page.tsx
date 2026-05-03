@@ -5,7 +5,7 @@ import NewsletterForm from '@/components/NewsletterForm';
 export const metadata: Metadata = {
   title: 'Free Health Newsletter 2026 — Weekly Wellness Tips | Healthy Vibes Hub',
   description: 'Join 125,000+ readers of the Healthy Vibes Hub newsletter. Get expert-curated health tips, nutrition advice, and wellness guides delivered every Tuesday. Free to subscribe.',
-  alternates: { canonical: 'https://healthyvibeshub.com/newsletter' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/newsletter' },
 };
 
 const benefits = [

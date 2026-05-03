@@ -4,7 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Cookie Policy | Healthy Vibes Hub',
   description: 'Learn how Healthy Vibes Hub uses cookies and tracking technologies. Manage your cookie preferences and understand your rights under GDPR and CCPA.',
-  alternates: { canonical: 'https://healthyvibeshub.com/cookie-policy' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/cookie-policy' },
 };
 
 const cookieTypes = [

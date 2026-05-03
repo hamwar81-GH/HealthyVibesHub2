@@ -5,7 +5,7 @@ import ContactForm from '@/components/ContactForm';
 export const metadata: Metadata = {
   title: 'Contact Us — Healthy Vibes Hub Editorial & Support Team',
   description: 'Contact the Healthy Vibes Hub team for editorial inquiries, advertising opportunities, corrections, or general questions. We respond within 48 business hours.',
-  alternates: { canonical: 'https://healthyvibeshub.com/contact' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/contact' },
 };
 
 const contactInfo = [

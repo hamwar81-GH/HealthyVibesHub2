@@ -5,7 +5,7 @@ import AdUnit from '@/components/AdUnit';
 export const metadata: Metadata = {
   title: "Women's Health Guide 2026 — Hormones, Fitness & Wellness | Healthy Vibes Hub",
   description: "Expert women's health articles on hormonal balance, pregnancy, menopause, PCOS, fertility, and female fitness. 210+ doctor-reviewed guides at Healthy Vibes Hub.",
-  alternates: { canonical: 'https://healthyvibeshub.com/womens-health' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/womens-health' },
 };
 
 const articles = [

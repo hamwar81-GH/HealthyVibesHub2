@@ -5,8 +5,8 @@ import AdUnit from '@/components/AdUnit';
 export const metadata: Metadata = {
   title: 'Mental Health Guide 2026 — Anxiety, Stress & Wellness | Healthy Vibes Hub',
   description: 'Evidence-based mental health articles on anxiety, depression, stress management, mindfulness, and emotional wellbeing. 160+ expert-reviewed guides at Healthy Vibes Hub.',
-  alternates: { canonical: 'https://healthyvibeshub.com/mental-health' },
-  openGraph: { title: 'Mental Health Guide 2026 | Healthy Vibes Hub', url: 'https://healthyvibeshub.com/mental-health' },
+  alternates: { canonical: 'https://www.healthyvibeshub.com/mental-health' },
+  openGraph: { title: 'Mental Health Guide 2026 | Healthy Vibes Hub', url: 'https://www.healthyvibeshub.com/mental-health' },
 };
 
 const articles = [
