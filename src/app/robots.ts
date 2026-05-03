@@ -6,10 +6,9 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: '*',
         allow: '/',
-        disallow: ['/search', '/api/', '/_next/'],
+        disallow: ['/api/', '/search'],
       },
     ],
-    sitemap: 'https://healthyvibeshub.com/sitemap.xml',
-    host: 'https://healthyvibeshub.com',
+    sitemap: 'https://www.healthyvibeshub.com/sitemap.xml',
   };
 }
