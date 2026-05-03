@@ -1,0 +1,11 @@
+# Healthy Vibes Hub — robots.txt
+# Generated automatically. The canonical version is at /robots.txt via Next.js
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /search
+
+Sitemap: https://healthyvibeshub.com/sitemap.xml
+Host: https://healthyvibeshub.com

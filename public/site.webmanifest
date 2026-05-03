@@ -1,0 +1,12 @@
+{
+  "name": "Healthy Vibes Hub",
+  "short_name": "HVH",
+  "description": "Your trusted health and wellness resource",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#0a6847",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

@@ -1,0 +1,43 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a6847;stop-opacity:1" />
+      <stop offset="60%" style="stop-color:#137a56;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a9e6e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="circle1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.08" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.02" />
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <!-- Decorative circles -->
+  <circle cx="1050" cy="120" r="280" fill="url(#circle1)" />
+  <circle cx="150" cy="520" r="200" fill="url(#circle1)" />
+  <circle cx="600" cy="315" r="500" fill="none" stroke="white" stroke-width="1" opacity="0.06" />
+  <!-- Logo leaf emoji area -->
+  <rect x="80" y="80" width="80" height="80" rx="20" fill="white" opacity="0.15" />
+  <text x="120" y="133" font-size="42" text-anchor="middle" font-family="Apple Color Emoji, Segoe UI Emoji, sans-serif">🌿</text>
+  <!-- Site name -->
+  <text x="80" y="220" font-family="Georgia, serif" font-size="56" font-weight="700" fill="white" letter-spacing="-1">Healthy Vibes Hub</text>
+  <!-- Tagline -->
+  <text x="80" y="285" font-family="Arial, sans-serif" font-size="26" fill="rgba(255,255,255,0.80)" letter-spacing="0.5">Your Trusted Health &amp; Wellness Guide for 2026</text>
+  <!-- Divider -->
+  <rect x="80" y="320" width="120" height="3" rx="2" fill="#d4a847" />
+  <!-- Description -->
+  <text x="80" y="375" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.70)">Expert-reviewed Nutrition · Fitness · Mental Health · Sleep</text>
+  <text x="80" y="410" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.70)">Weight Loss · Recipes · Beauty · 1,800+ Articles</text>
+  <!-- Stats pills -->
+  <rect x="80" y="460" width="200" height="48" rx="24" fill="rgba(255,255,255,0.12)" />
+  <text x="180" y="490" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">2.4M+ Monthly Readers</text>
+  <rect x="298" y="460" width="170" height="48" rx="24" fill="rgba(255,255,255,0.12)" />
+  <text x="383" y="490" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">48 Expert Authors</text>
+  <rect x="486" y="460" width="160" height="48" rx="24" fill="rgba(255,255,255,0.12)" />
+  <text x="566" y="490" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">1,800+ Articles</text>
+  <!-- URL -->
+  <text x="80" y="580" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.50)">healthyvibeshub.com</text>
+  <!-- Gold badge -->
+  <rect x="940" y="240" width="200" height="60" rx="16" fill="#d4a847" />
+  <text x="1040" y="278" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">⭐ EEAT Certified</text>
+</svg>
